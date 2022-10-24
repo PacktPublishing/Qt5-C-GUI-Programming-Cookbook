@@ -30,3 +30,7 @@ Happy coding! :)
 * [Qt 5 Blueprints] (https://www.packtpub.com/application-development/qt-5-blueprints?utm_source=Github&utm_medium=Repository&utm_campaign=9781784394615)
 * [Learning Boost C++ Libraries] (https://www.packtpub.com/application-development/learning-boost-c-libraries?utm_source=Github&utm_medium=Repository&utm_campaign=9781783551217)
 * [Getting Started with C++ Audio Programming for Game Development] (https://www.packtpub.com/game-development/getting-started-c-audio-programming-game-development?utm_source=Github&utm_medium=Repository&utm_campaign=9781849699099)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781783280278">https://packt.link/free-ebook/9781783280278 </a> </p>
